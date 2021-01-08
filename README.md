@@ -1,4 +1,4 @@
-# crowdcell_proto
+# Pubster API
 
 A RestFull backend for pubster application
 
